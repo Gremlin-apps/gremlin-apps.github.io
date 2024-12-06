@@ -1,5 +1,9 @@
 # Coinflip tournament
 
+| | | |
+:---:|:---:|:---:
+![image](images/cs1.png) | ![image](images/cs2.png) | ![image](images/cs3.png)
+
 Life is full of important decisions, but are you really smart enough to make them?
 Sometimes it's better to just leave things to fate. That's where this app shines, for it can provide you with fate!
 Using an algorithm that guarantees a 100% random outcome, you can be certain fate is making the choices for you!
