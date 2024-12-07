@@ -1,10 +1,6 @@
-# Coinflip tournament
+# [<img src="images/icon.png" width="28">](https://apple.co/3Bhvqxz) Coinflip tournament
 
-[<img src="images/icon.png" width="40">](https://apple.co/3Bhvqxz)  [![image](images/appStore.svg)](https://apple.co/3Bhvqxz)
-
-
-
-
+[![image](images/appStore.svg)](https://apple.co/3Bhvqxz)
 
 Life is full of important decisions, but are you really smart enough to make them?
 Sometimes it's better to just leave things to fate. That's where this app shines, for it can provide you with fate!
