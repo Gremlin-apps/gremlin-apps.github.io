@@ -1,4 +1,3 @@
-# Our apps
 
 ### [<img src="fox-fire/images/icon.png" width="20"> Fox Fire](fox-fire/index.md)
 
