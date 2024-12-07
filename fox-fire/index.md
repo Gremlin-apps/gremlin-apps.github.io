@@ -8,4 +8,4 @@ It's more fun than you can handle!
 
 | | | |
 :---:|:---:|:---:
-![image](images/fs1.png) | ![image](images/fs2.png) | ![image](images/fs3.png)
+![image](images/f1.png) | ![image](images/f2.png) | ![image](images/f3.png)
